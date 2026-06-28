@@ -1,59 +1,86 @@
-# Hi, I'm Jeremy
+# Hi, I'm Jeremy 👋
 
-C++ developer focused on building desktop applications, game systems, and systems-style software.
+I'm a software developer with a background in platform engineering and cybersecurity. I enjoy building desktop applications, automation tools, and utilities that solve real problems and improve day-to-day workflows.
 
-I enjoy working on projects that involve interactive logic, GUI development, and low-level or terminal-based environments. I also like understanding how systems behave across different environments (especially Windows and Linux) and using that to improve debugging and software structure.
+My interests include C++, Python, Linux, GUI development, systems programming, and infrastructure automation. Whether I'm building a desktop application, experimenting with Linux, or automating repetitive tasks, I enjoy understanding how software works under the hood and designing solutions that are reliable and maintainable.
 
 ---
 
 ## 🧠 Background
 
-I have a background in cybersecurity and platform engineering, which influences how I approach software design, debugging, and system reliability.
+My professional experience includes platform engineering, where I've developed internal tools and automation to simplify operational workflows and support Linux-based environments.
 
-This perspective shows up in my projects through an emphasis on structure, state management, and building applications that behave consistently across environments.
+Some examples include:
+
+- Bash scripts to automate server monitoring and maintenance tasks
+- Python (Streamlit) applications for internal request workflows
+- Automation tools for validating application and package repository connectivity across multiple servers
+- Cross-platform development and experimentation in both Windows and Linux environments
+
+These experiences have shaped how I approach software design, with an emphasis on reliability, maintainability, and practical problem solving.
 
 ---
 
 ## 🚀 Featured Projects
 
 ### 🧩 Minesweeper
-A full GUI Minesweeper game built in C++ using wxWidgets.
 
-- Grid-based game system with flood fill logic
-- Win/loss state management
-- Scoring system and settings configuration
-- Modular class-based design
-- Event-driven GUI interaction
+A full GUI implementation of the classic Minesweeper game built with C++ and wxWidgets.
+
+- Event-driven GUI application
+- Recursive flood-fill algorithm
+- Game state management
+- Scoring and settings system
+- Modular object-oriented architecture
 
 ---
 
-### 🧱 Bricks Breaker (Linux Terminal)
-A terminal-based arcade game written in C++11.
+### 🧱 Bricks Breaker (Linux)
 
-- Custom terminal rendering system using ANSI escape codes
-- Level-based gameplay (5 stages)
-- Cross-platform adaptation (Windows → Linux)
-- Collision-based gameplay system
-- Structured game loop and HUD
+A terminal-based Brick Breaker game written in C++11.
+
+- ANSI terminal rendering
+- Cross-platform adaptation from Windows to Linux
+- Level-based gameplay
+- Collision detection and game loop implementation
+- Used as a sandbox for Linux development and tooling experimentation
 
 ---
 
 ### 🧮 Calculator
-A GUI calculator built from scratch using wxWidgets.
 
-- Expression input and evaluation system
-- Button-driven event handling
-- GUI layout and interaction design
-- Core foundational C++/wxWidgets project
+A calculator application built from scratch using C++ and wxWidgets.
 
----
-
-## 📌 Notes
-
-These projects represent a progression from foundational programming concepts to more structured application and systems-style development. Some projects were influenced by guided coursework, while later work reflects more independent development and experimentation.
+- Expression parsing and evaluation
+- Event-driven GUI design
+- Custom calculator interface
+- Foundation for learning desktop application development
 
 ---
 
-## 📫 Contact
+## 💻 Technologies
 
-- GitHub: https://github.com/JPDeuce
+### Languages
+
+- C++
+- Python
+- Bash
+- R
+
+### Frameworks & Tools
+
+- wxWidgets
+- Streamlit
+- Git
+- Linux
+- Windows
+
+---
+
+## 🌱 Currently Learning
+
+I'm currently expanding my software engineering knowledge while continuing to build projects that strengthen my understanding of application design, modern C++, Linux, automation, and software architecture.
+
+---
+
+Thanks for stopping by!
