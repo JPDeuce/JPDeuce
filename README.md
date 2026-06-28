@@ -1,23 +1,25 @@
 # Hi, I'm Jeremy 👋
 
-I'm a software developer with a background in platform engineering and cybersecurity. I enjoy building desktop applications, automation tools, and utilities that solve real problems and improve day-to-day workflows.
+I'm a software developer with a background in platform engineering, cybersecurity, and infrastructure support. I enjoy building practical software—desktop applications, internal tools, and automation that improves workflows, reduces manual effort, and makes systems more reliable.
 
-My interests include C++, Python, Linux, GUI development, systems programming, and infrastructure automation. Whether I'm building a desktop application, experimenting with Linux, or automating repetitive tasks, I enjoy understanding how software works under the hood and designing solutions that are reliable and maintainable.
+I’m especially interested in how software behaves across different environments (Windows, Linux, containerized systems) and how different services and tools interact in real-world infrastructure.
 
 ---
 
 ## 🧠 Background
 
-My professional experience includes platform engineering, where I've developed internal tools and automation to simplify operational workflows and support Linux-based environments.
+My professional experience is centered around supporting and improving Linux-based development and application environments. Alongside infrastructure and platform responsibilities, I’ve built automation and internal tools to streamline operational workflows and reduce manual processes.
 
-Some examples include:
+Some of this work includes:
 
-- Bash scripts to automate server monitoring and maintenance tasks
-- Python (Streamlit) applications for internal request workflows
-- Automation tools for validating application and package repository connectivity across multiple servers
-- Cross-platform development and experimentation in both Windows and Linux environments
+- Bash scripting for server monitoring and maintenance automation
+- Python (Streamlit) applications for internal request workflows (package approvals, access requests, etc.)
+- R-based tooling to validate connectivity between Posit Workbench, Posit Connect, and Posit Package Manager
+- Automation and validation workflows across multi-service environments
+- Administration and support of services including PostgreSQL, MongoDB, Neo4j, GitLab, and Grafana for monitoring and observability
+- Infrastructure tooling using Podman containers and Ansible for deployment and configuration management
 
-These experiences have shaped how I approach software design, with an emphasis on reliability, maintainability, and practical problem solving.
+These experiences shaped how I approach software: focusing on reliability, clarity, and systems that behave predictably under real operational constraints.
 
 ---
 
@@ -29,9 +31,9 @@ A full GUI implementation of the classic Minesweeper game built with C++ and wxW
 
 - Event-driven GUI application
 - Recursive flood-fill algorithm
-- Game state management
+- Game state management (win/loss conditions)
 - Scoring and settings system
-- Modular object-oriented architecture
+- Modular object-oriented design
 
 ---
 
@@ -39,48 +41,52 @@ A full GUI implementation of the classic Minesweeper game built with C++ and wxW
 
 A terminal-based Brick Breaker game written in C++11.
 
-- ANSI terminal rendering
-- Cross-platform adaptation from Windows to Linux
-- Level-based gameplay
+- ANSI terminal rendering system
+- Cross-platform adaptation (Windows → Linux)
+- Level-based gameplay system (5 stages)
 - Collision detection and game loop implementation
-- Used as a sandbox for Linux development and tooling experimentation
+- Built as a sandbox for Linux development and tooling experimentation
 
 ---
 
 ### 🧮 Calculator
 
-A calculator application built from scratch using C++ and wxWidgets.
+A GUI calculator built from scratch using C++ and wxWidgets.
 
-- Expression parsing and evaluation
+- Expression parsing and evaluation logic
 - Event-driven GUI design
-- Custom calculator interface
-- Foundation for learning desktop application development
+- Button-based input system
+- Foundation project for desktop application development
 
 ---
 
 ## 💻 Technologies
 
 ### Languages
-
 - C++
 - Python
 - Bash
 - R
 
-### Frameworks & Tools
-
+### Infrastructure & Tools
+- Linux / Windows environments
 - wxWidgets
 - Streamlit
-- Git
-- Linux
-- Windows
+- Podman
+- Ansible
+- Git / GitLab
+
+### Data & Services
+- PostgreSQL
+- MongoDB
+- Neo4j
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 Currently Focused On
 
-I'm currently expanding my software engineering knowledge while continuing to build projects that strengthen my understanding of application design, modern C++, Linux, automation, and software architecture.
+I’m continuing to build software projects that strengthen my understanding of systems design, C++, Linux environments, and automation. I’m especially interested in improving how applications interact with infrastructure and how tooling can simplify complex workflows.
 
 ---
 
-Thanks for stopping by!
+Thanks for visiting 👋
