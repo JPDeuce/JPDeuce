@@ -89,6 +89,7 @@ My repositories include a mix of personal projects and recreations of tools insp
 - Python
 - Bash
 - R
+- Kotlin
 
 ### Infrastructure & Tools
 - Linux
